@@ -1,0 +1,7 @@
+D:\Programas\Cursos\C# ya\empleado\proyecto13.5\proyecto13.5\bin\Debug\proyecto13.5.exe.config
+D:\Programas\Cursos\C# ya\empleado\proyecto13.5\proyecto13.5\bin\Debug\proyecto13.5.exe
+D:\Programas\Cursos\C# ya\empleado\proyecto13.5\proyecto13.5\bin\Debug\proyecto13.5.pdb
+D:\Programas\Cursos\C# ya\empleado\proyecto13.5\proyecto13.5\obj\Debug\proyecto13.5.csproj.AssemblyReference.cache
+D:\Programas\Cursos\C# ya\empleado\proyecto13.5\proyecto13.5\obj\Debug\proyecto13.5.csproj.CoreCompileInputs.cache
+D:\Programas\Cursos\C# ya\empleado\proyecto13.5\proyecto13.5\obj\Debug\proyecto13.5.exe
+D:\Programas\Cursos\C# ya\empleado\proyecto13.5\proyecto13.5\obj\Debug\proyecto13.5.pdb
